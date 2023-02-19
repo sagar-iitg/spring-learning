@@ -22,3 +22,9 @@ What is dependency.?
 
  
  ![picture alt](img/spring-overview.png "Title is optional")
+
+    * Core Container
+        * Beans
+        * Core
+        * Context
+        * Expression language
