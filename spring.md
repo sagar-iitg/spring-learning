@@ -6,15 +6,15 @@ Spring Framework provides many sub-frameworks AOP,ORM,JDBC,MVC etc.
 
 What is dependency.?
 
-1.WebLayer
+* WebLayer
 
 JSP,Servlet,MVC,WEB, VIEW
 
-2.Business Layer
+* Business Layer
 
 SPRING 
 
-3.Data Layer
+* Data Layer
 
 Hibernate
 JDBC
