@@ -31,3 +31,12 @@ What is dependency.?
     * Core
     * Context
     * Expression language
+
+
+
+Three Things to spring manage for object/beans creation
+
+* About Beans
+* About dependencies
+* Where to search the beans
+
