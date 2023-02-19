@@ -20,4 +20,5 @@ What is dependency.?
     * IBATIS
 
 
-Markup : ![picture alt](img/spring-overview.png "Title is optional")
+ 
+ ![picture alt](img/spring-overview.png "Title is optional")
