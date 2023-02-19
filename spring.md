@@ -8,16 +8,15 @@ What is dependency.?
 
 * WebLayer
 
-JSP,Servlet,MVC,WEB, VIEW
+    * JSP,Servlet,MVC,WEB, VIEW
 
 * Business Layer
-
-SPRING 
+ 
 
 * Data Layer
 
-Hibernate
-JDBC
-IBATIS
+    * Hibernate
+    * JDBC
+    * IBATIS
 
 
