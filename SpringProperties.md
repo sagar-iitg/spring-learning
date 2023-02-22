@@ -28,3 +28,16 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.MySQL8Dialect
 
 ```
+
+
+#file config
+
+spring.servlet.multipart.max-file-size=10MB
+spring.servlet.multipart.max-request-size=10MB
+
+
+
+
+#Path configuration
+
+user.profile.image.path=images/users/
