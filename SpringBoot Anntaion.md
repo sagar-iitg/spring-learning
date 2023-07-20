@@ -8,6 +8,17 @@
  @RestController  -> @Controller+@ResponseBody
 ```
 
+```
+http://localhost:9090/user/1
+
+here 1 is the path variable
+
+@PathVariable
+
+
+
+
+```
 
 
 * SpringBootApplication
