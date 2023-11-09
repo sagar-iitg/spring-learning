@@ -33,11 +33,13 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.MySQL8Dialect
 spring.output.ansi.enabled=always
 ```
 
-#file config
-
+## file config
+```
 spring.servlet.multipart.max-file-size=10MB
 spring.servlet.multipart.max-request-size=10MB
+```
 
-#Path configuration
-
+## Path configuration
+```
 user.profile.image.path=images/users/
+```
