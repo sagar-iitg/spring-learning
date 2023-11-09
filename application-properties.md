@@ -28,15 +28,15 @@ spring.jpa.show-sql=true
 spring.jpa.properties.hibernate.dialect=org.hibernate.MySQL8Dialect
 
 ```
-
+## Console-Coloring
+```
+spring.output.ansi.enabled=always
+```
 
 #file config
 
 spring.servlet.multipart.max-file-size=10MB
 spring.servlet.multipart.max-request-size=10MB
-
-
-
 
 #Path configuration
 
