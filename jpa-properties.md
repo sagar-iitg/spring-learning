@@ -18,6 +18,3 @@ spring.jpa.properties.hibernate.dialect=org.hibernate.dialect.MySQL55Dialect
 
 ```
 
-```
-spring.output.ansi.enabled=always
-```
